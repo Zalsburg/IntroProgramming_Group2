@@ -1,0 +1,6 @@
+C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Selection Task\Selection Task\obj\Debug\Selection Task.csprojResolveAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Selection Task\Selection Task\bin\Debug\Selection Task.exe.config
+C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Selection Task\Selection Task\bin\Debug\Selection Task.exe
+C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Selection Task\Selection Task\bin\Debug\Selection Task.pdb
+C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Selection Task\Selection Task\obj\Debug\Selection Task.exe
+C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Selection Task\Selection Task\obj\Debug\Selection Task.pdb
