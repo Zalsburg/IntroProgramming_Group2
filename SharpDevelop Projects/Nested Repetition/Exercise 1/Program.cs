@@ -2,13 +2,13 @@
  * Created by SharpDevelop.
  * User: Zali
  * Date: 21/03/2019
- * Time: 2:59 PM
+ * Time: 3:37 PM
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 
-namespace Nested_Repetition
+namespace Exercise_1
 {
 	class Program
 	{
@@ -23,7 +23,7 @@ namespace Nested_Repetition
 			{
 				int counter2 = 0;
 				
-				while (counter2 < 5)
+				while (counter2 < 10)
 				{
 					Console.Write(name + " ");
 					counter2 += 1; //counter2 = counter 2 + 1
@@ -38,9 +38,8 @@ namespace Nested_Repetition
 			Console.WriteLine();
 			counter += 1;
 			
-			Console.Write("Press any key to continue");
+			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
-		}		
-			
 		}
 	}
+}

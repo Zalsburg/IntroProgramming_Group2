@@ -4,3 +4,9 @@ C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\
 C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Nested Repetition\Nested Repetition\obj\Debug\Nested Repetition.csprojResolveAssemblyReference.cache
 C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Nested Repetition\Nested Repetition\obj\Debug\Nested Repetition.exe
 C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\Nested Repetition\Nested Repetition\obj\Debug\Nested Repetition.pdb
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntoProgramming_Group2\SharpDevelop Projects\Nested Repetition\Nested Repetition\bin\Debug\Nested Repetition.exe.config
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntoProgramming_Group2\SharpDevelop Projects\Nested Repetition\Nested Repetition\bin\Debug\Nested Repetition.exe
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntoProgramming_Group2\SharpDevelop Projects\Nested Repetition\Nested Repetition\bin\Debug\Nested Repetition.pdb
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntoProgramming_Group2\SharpDevelop Projects\Nested Repetition\Nested Repetition\obj\Debug\Nested Repetition.csprojResolveAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntoProgramming_Group2\SharpDevelop Projects\Nested Repetition\Nested Repetition\obj\Debug\Nested Repetition.exe
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntoProgramming_Group2\SharpDevelop Projects\Nested Repetition\Nested Repetition\obj\Debug\Nested Repetition.pdb
