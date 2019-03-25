@@ -2,13 +2,13 @@
  * Created by SharpDevelop.
  * User: Zali
  * Date: 21/03/2019
- * Time: 3:37 PM
+ * Time: 4:36 PM
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 
-namespace Exercise_1
+namespace Exercise_1._
 {
 	class Program
 	{
@@ -38,7 +38,7 @@ namespace Exercise_1
 			Console.WriteLine();
 			counter += 1;
 			
-			Console.Write("Press any key to continue . . . ");
+			Console.Write("Goodbye " + name);
 			Console.ReadKey(true);
 		}
 	}
