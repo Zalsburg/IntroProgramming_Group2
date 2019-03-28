@@ -8,15 +8,15 @@ namespace ConsoleApp1
 {
     class Program {
         static void Main(string[] args) {
-            HealPotion hp1 = new HealPotion(50);
-            Person p1 = new Person("Fred", 1, hp1);
+            HealPotion[] pots = new HealPotion[4] { new HealPotion(65), new HealPotion(9), new HealPotion(423), new HealPotion(1)};
+            Person p1 = new Person("Fred", 1, pots);
 
             Console.WriteLine("P1 name: " + p1.name);
             Console.WriteLine("P1 health: " + p1.healthPool);
-            Console.WriteLine("Potion value: " + p1.potion1.health);
+            Console.WriteLine("Number of potions: " + p1.potions.Length);
 
             p1.usePotion();
-            Console.WriteLine("P1 health: " + p1.healthPool);
+            Console.WriteLine("P1 health: " + p1.healthPool + " and " + p1.potions.Length);
 
             p1.takeDamage(49);
 
@@ -42,18 +42,31 @@ namespace ConsoleApp1
     public class Person {
         public string name;
         public int healthPool;
-        public HealPotion potion1;
+        public HealPotion[] potions;
 
         //constructor
-        public Person(string n, int hp, HealPotion p) {
+        public Person(string n, int hp, HealPotion[] ps) {
             name = n;
             healthPool = hp;
-            potion1 = p;
+            potions = ps;
+        }
+
+        public HealPotion[] Shorten(HealPotion[] gleeb)
+        {
+            HealPotion[] newboy = new HealPotion[gleeb.Length - 1];
+
+            int counter = 0;
+            while (counter < newboy.Length)
+            {
+                newboy[counter] = gleeb[counter];
+                counter++;
+            }
+            return newboy;
         }
 
         public void usePotion() {
-            healthPool += potion1.use();
-            potion1 = null;
+            healthPool += potions[potions.Length - 1].health;
+            potions = Shorten(potions);
         }
 
         public void takeDamage(int d) {

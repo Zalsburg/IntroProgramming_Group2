@@ -1,0 +1,7 @@
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\Visual Studio\week5\week5\bin\Debug\week5.exe.config
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\Visual Studio\week5\week5\bin\Debug\week5.exe
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\Visual Studio\week5\week5\bin\Debug\week5.pdb
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\Visual Studio\week5\week5\obj\Debug\week5.csprojAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\Visual Studio\week5\week5\obj\Debug\week5.csproj.CoreCompileInputs.cache
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\Visual Studio\week5\week5\obj\Debug\week5.exe
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\Visual Studio\week5\week5\obj\Debug\week5.pdb
