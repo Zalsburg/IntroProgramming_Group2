@@ -16,17 +16,19 @@ namespace ConsoleApp1
             string userX = Console.ReadLine();
             int numX = int.Parse(userX);
 
-            while (counterX < 5) {
+            int numY = 0;
+
+            while (counterX < numX) {
                 int counterY = 0;
 
-                while (counterY <= numX) {
+                while (counterY <= numY) {
                     Console.Write("x");
                     counterY++;
                 }
 
                 Console.WriteLine();
                 counterX++;
-                numX++;
+                numY++;
             }
 
             Console.WriteLine();
