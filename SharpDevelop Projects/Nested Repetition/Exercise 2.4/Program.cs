@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Exercise_2._4
 {
     class Program
     {
@@ -18,10 +18,12 @@ namespace ConsoleApp1
 
             int numY = 0;
 
-            while (counterX < numX) {
+            while (counterX < numX)
+            {
                 int counterY = 0;
 
-                while (counterY <= numY) {
+                while (counterY <= numY)
+                {
                     Console.Write("x");
                     counterY++;
                 }
