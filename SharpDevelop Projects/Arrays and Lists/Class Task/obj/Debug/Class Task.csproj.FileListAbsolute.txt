@@ -1,6 +1,7 @@
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Class Task\bin\Debug\Class Task.exe.config
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Class Task\bin\Debug\Class Task.exe
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Class Task\bin\Debug\Class Task.pdb
-C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Class Task\obj\Debug\Class Task.csprojResolveAssemblyReference.cache
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Class Task\obj\Debug\Class Task.exe
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Class Task\obj\Debug\Class Task.pdb
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Class Task\obj\Debug\Class Task.csprojAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Class Task\obj\Debug\Class Task.csproj.CoreCompileInputs.cache

@@ -14,6 +14,7 @@ namespace Arrays_and_Lists
 	{
 		public static void Main(string[] args)
 		{
+            Console.WriteLine("Give me five numbers to add");
 			int count = 0;
 			int[] scores = new int[5];
 			

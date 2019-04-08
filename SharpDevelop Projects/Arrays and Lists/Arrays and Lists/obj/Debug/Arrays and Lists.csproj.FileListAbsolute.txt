@@ -1,6 +1,7 @@
-C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csprojResolveAssemblyReference.cache
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe.config
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.pdb
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.exe
 C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.pdb
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csprojAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.CoreCompileInputs.cache
