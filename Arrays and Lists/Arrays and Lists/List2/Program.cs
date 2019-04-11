@@ -27,6 +27,7 @@ namespace List2
 
             int number2 = int.Parse(Console.ReadLine());
 
+            //Using foreach
             int amount = 0;
             foreach (int element in numbers) {
                 if (number2 == element) {
@@ -34,8 +35,12 @@ namespace List2
                 }
             }
 
-
+            
             Console.WriteLine("That number has been entered " + amount + " times!");
+
+            //Using LINQ (Reccommended by Lochie)
+            int total = numbers.Count(element => element == number2);
+            Console.WriteLine("According to the LINQ method, that number has been entered " + total + " times!");
 
             Console.ReadKey(true);
         }
