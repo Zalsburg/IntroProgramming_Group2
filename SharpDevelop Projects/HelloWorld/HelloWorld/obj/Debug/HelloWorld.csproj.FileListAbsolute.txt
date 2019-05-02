@@ -10,3 +10,10 @@ C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\
 C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\Zali\Documents\Cert IV in Information Technology\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Zali\Documents\Cert IV in Information Technology\GitHub\IntroProgramming_Group2\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
