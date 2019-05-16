@@ -64,14 +64,16 @@ namespace TodoFunctional
             // Do stuff in here to create a new Todo.
             Console.Write("Enter title for new ToDo item: ");
             string newTitle = Console.ReadLine();
-            Console.Write("Is ToDo complete? (T/F)");
-            string newCompleteInput = Console.ReadLine().ToUpper();
+
+            //why ask this if we're not going to make it green if it's true? therefore it's getting commented out:
+            //Console.Write("Is ToDo complete? (T/F) ");
+            //string newCompleteInput = Console.ReadLine().ToUpper();
             bool newComplete = false;
 
-            while (newCompleteInput != "T" && newCompleteInput != "F") {
-                Console.WriteLine("Please enter T or F");
-                newCompleteInput = Console.ReadLine();
-            }
+            //while (newCompleteInput != "T" && newCompleteInput != "F") {
+            //    Console.WriteLine("Please enter T or F");
+            //    newCompleteInput = Console.ReadLine();
+            //}
 
             AddTodo(newTitle, newComplete);
         }
@@ -80,13 +82,37 @@ namespace TodoFunctional
         {
             Console.WriteLine("Toggle Todo: ");
             // Do something to toggle the todo item thingy-ma-bob thing
+            Console.Write($"What number item would you like to select? (1 - {TodoTitles.Count}) ");
+            int listNo = int.Parse(Console.ReadLine());
+
+            if (TodoCompleted[listNo - 1] == true) {
+                TodoCompleted[listNo - 1] = false;
+            }
+            else if (TodoCompleted[listNo - 1] == false) {
+                TodoCompleted[listNo - 1] = true;
+            }
+            
         }
 
         static void ReadRemoveTodo()
         {
             Console.WriteLine("Remove Todo: ");
-            RemoveTodo(1);
+            //This thing gave me so much grief, why is it here :(
+                //RemoveTodo(1);
             // Remove craptasic todos here
+            Console.Write($"Which Todo would you like to remove? (1 - {TodoTitles.Count}) ");
+            int listNo = int.Parse(Console.ReadLine());
+            Console.WriteLine($"You are about to delete '{TodoTitles[listNo - 1]}'. Continue? (Y/N) ");
+            string yesNo = Console.ReadLine().ToUpper();
+            if (yesNo == "Y") {
+                RemoveTodo(listNo - 1);
+                Console.WriteLine("The item will be removed");
+                Console.ReadKey();
+            }
+            else if (yesNo == "N") {
+                Console.WriteLine("The item won't be removed");
+                Console.ReadKey();
+            }
         }
 
         static void Main(string[] args)
@@ -139,5 +165,20 @@ namespace TodoFunctional
             }
 
         }
+        //Creating a class which represents one item in the list
+        public class Todo {
+            public string itemName;
+            public bool complete;
+
+            public Todo(string name, bool comp) {
+                itemName = name;
+                complete = comp;
+            }
+
+            public void NewJob(string job) {
+                itemName = Console.ReadLine();
+            }
+        }
+
     }
 }
