@@ -97,6 +97,17 @@ namespace Beehive {
                 Console.WriteLine(bee.Name);
             }
 
+            Console.WriteLine();
+            Console.WriteLine("Now how many days of honey collection would you like to view? (Whole numbers only)");
+            int newdays = int.Parse(Console.ReadLine());
+
+            float newbeetleshoney = Beetles.CollectHoney(days);
+            float newnirvanahoney = Nirvana.CollectHoney(days);
+
+            Console.WriteLine($"There are {Beetles.Bees.Count} bees in the Beetles beehive. They collected {newbeetleshoney} honey");
+            Console.WriteLine($"There are {Nirvana.Bees.Count} bees in the Nirvana beehive. They collected {newnirvanahoney} honey");
+
+
             Console.ReadKey(true);
 
         }
